@@ -11,7 +11,7 @@ My background is in building ML systems (drug discovery 🧬, surgical robotics 
 ### What I've been working on
 
 - **Autoformalisation** — building agent harnesses to formally verify AI-written code, reducing the surface area for silent bugs and vulnerabilities · [blog post](https://theoremlabs.com/blog/lf-lean/)
-- **Mechanistic interpretability** — ARENA 6.0 capstone: reproducing manifold geometry findings in the Evo2 genomic foundation model
+- **Mechanistic interpretability** — ARENA 6.0 capstone: reproducing manifold geometry findings in the Evo2 genomic foundation model · [blog post](https://jacobhgreen.com/writings/evo2/)
 - **Drug discovery ML** — designed and shipped an AutoML pipeline for predicting molecular properties that outperformed SoTA on 9/9 benchmarks · [arXiv](https://arxiv.org/abs/2309.17161)
 
 ---
