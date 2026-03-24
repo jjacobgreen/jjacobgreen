@@ -2,9 +2,9 @@
 
 ML engineer & AI safety researcher. 
 
-I care a lot about understanding how AI systems work in production — and making sure they stay that way as they get more capable.
+I care about understanding and supervising how AI systems work in production, and making sure they stay that way as they get more capable.
 
-My background is in building ML systems (drug discovery 🧬, surgical robotics 🦾, medical imaging 🩻), but over the last year I've been shifting toward safety research: mechanistic interpretability, formal verification, and questions around human/AI identity and trust.
+My background is in building ML systems (drug discovery 🧬 surgical robotics 🦾 medical imaging 🩻), but over the last year I've been shifting toward safety research: mechanistic interpretability, formal verification, agent monitoring, and questions around human/AI identity and trust.
 
 ---
 
